@@ -2,12 +2,13 @@ project:
   type: website
 
 website:
-  title: "vcm_info"
+  title: "VCM Methodologies"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: car-mx.qmd
+        text: CAR MX
 
 format:
   html:

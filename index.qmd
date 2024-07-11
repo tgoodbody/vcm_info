@@ -1,7 +1,20 @@
 ---
-title: "vcm_info"
+title: "Carbon Methodologies"
+author:
+  - name: Tristan Goodbody
+    email: tristan@renostersystems.co
+    affiliation: 
+      - name: Renoster Systems Inc.
+        url: https://www.renoster.co/
+date: today
+format:
+    html: 
+        code-fold: true
+jupyter: python3
 ---
 
-This is a Quarto website.
+# Living Document of Core Principles of Existing Carbon Protocols
+This site serves as a dynamic and evolving repository dedicated to capturing and elucidating the core principles underlying various carbon protocols. As the landscape of carbon management and climate action continues to develop, our aim is to provide a centralized, comprehensive resource that remains current and relevant.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Purpose and Scope
+Carbon protocols are long and often arduous to read so I am trying to compile clear and accessible explanations of the foundational principles that guide existing carbon protocols. This includes the methodologies, standards, and practices that define how carbon emissions are measured, reported, verified, and mitigated across different sectors and regions.
