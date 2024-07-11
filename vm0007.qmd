@@ -1,0 +1,19 @@
+---
+title: "VM0007"
+
+date: 03-12-2010
+date-modified: 04-06-2024
+
+author:
+    - name: Verra
+      url: https://verra.org/methodologies/vm0007-redd-methodology-framework-redd-mf-v1-8/
+
+description: |
+    VM0007 REDD+ Methodology Framework (REDD+MF)
+
+keywords:
+    - v3.3
+---
+
+## Overview
+

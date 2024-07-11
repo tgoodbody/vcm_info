@@ -1,0 +1,20 @@
+---
+title: "GS A/R"
+
+date: 03-07-2017
+date-modified: 16-05-2024
+
+author:
+    - name: Gold Standard
+      url: https://globalgoals.goldstandard.org/403-luf-ar-methodology-ghgs-emission-reduction-and-sequestration-methodology/
+
+description: |
+    Afforestation – Reforestation GHG Emissions Reductions & Sequestration Methodology
+
+    
+keywords:
+    - v2.1
+---
+
+## Overview
+

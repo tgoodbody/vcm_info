@@ -6,10 +6,14 @@ website:
   title: "VCM Methodologies"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: car-mx.qmd
         text: CAR MX
+      - href: vm0007.qmd
+        text: VM0007
+      - href: vm0047.qmd
+        text: VM0047         
+      - href: gsar.qmd
+        text: GS A/R                    
 
 format:
   html:

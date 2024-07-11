@@ -1,8 +1,21 @@
 ---
 title: "Mexico CAR"
+
+date-modified: last-modified
+
+author:
+    - name: Tristan Goodbody
+    - email: goodbody.t@gmail.com
+
+description: |
+    Climate Action Reserve Mexico Forest Protocol - Simplified Overview
+
+site-url: https://www.climateactionreserve.org/how/protocols/ncs/mexico-forest/
 ---
 
 ## Project Overview
+
+**Methodology Link**
 
 ![](img/project_workflow.jpg)
 
