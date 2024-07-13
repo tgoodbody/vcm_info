@@ -1,0 +1,19 @@
+---
+title: "VM0015"
+
+date: 12-06-2011
+date-modified: 18-12-2023
+
+author:
+    - name: Verra
+      url: https://verra.org/methodologies/vm0015-methodology-for-avoided-unplanned-deforestation-v1-2/
+
+description: |
+    VM0015 Methodology for Avoided Unplanned Deforestation
+
+    
+keywords:
+    - v1.2
+---
+
+# Overview

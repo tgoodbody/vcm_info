@@ -1,0 +1,18 @@
+---
+title: "VM0047"
+
+date: 08-09-2023
+
+author:
+    - name: Verra
+      url: https://verra.org/methodologies/vm0047-afforestation-reforestation-and-revegetation-v1-0/
+
+description: |
+    VM0047 Afforestation, Reforestation, and Revegetation
+
+    
+keywords:
+    - v1.0
+---
+
+# Overview
