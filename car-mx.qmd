@@ -522,3 +522,86 @@ Site visits are conducted to verify forest carbon stock and are mandatory for fu
     - Optional Verification Activity Log . 
 7. Return important records and documents to the Forest Owner.
 
+# Mexican Context
+
+> The communal ownership of the majority of the forests in Mexico by indigenous and/or poor communities is a historical and current issue that must be fully recognized and incorporated into the development of future forest policies and management approaches. In this context, timber management decisions should not depend only on economical or ecological considerations. As forest owners become more knowledgeable about their forests, land use options, and become better organized through proper governance structures, they will become better able to define the best way to manage, not only their forest resources, but all their land resources in a broader context of overall sustainable development. - @torres2016sustainable
+
+* Timber management in Mexico is practiced on communal and private forest lands.
+
+* Often a seasonal activity with low returns, struggling to compete with cheaper imported timber products.
+
+* Timber market has shrunk over the last 15 years
+    * Reduction the number of lumber mills and investment in logging technology.
+
+* Generally no tradition of making a living from cultivating and investing in forests among forest community inhabitants.
+
+* Many inhabitants of forest areas live in extreme poverty.
+    * Poor health education, and accessibility conditions
+
+* Few incentives exist to invest in low-impact harvest methods.
+    * Only rare high-grade logs or sawnwood and logs of precious species remain competitive.
+
+* Forests play an increasingly important role in:
+    * climate change mitigation
+    * attracting forest landuse players
+    * conservation alternatives
+
+* Alternatives like REDD+ incentives or carbon sequestration markets **can be more profitable than timber extraction for forests with __low productivity or high biodiversity.__**
+
+* New markets impact timber management decisions, potentially delaying or reducing harvest levels.
+
+::: {.callout-note}
+## Relvance for communally owned forests
+Alternatives are appealing for areas with traditionally high timber production and administration costs, such as communally owned forests.
+:::
+
+* Common management actions include:
+    * reducing harvest areas
+    * harvest volumes
+    * delaying harvests
+    * changing silvicultural systems.
+
+* complexity of managing diverse forest compositions and rapidly changing site conditions complicates planning and operational practices.
+
+### Community Forest Enterprises
+
+::: {.callout-tip}
+Communal forests under active timber management operate as Community Forest Enterprises (CFEs).
+:::
+
+* CFEs produce almost 85% of the timber volume logged in the country.
+
+* Objectives in CFEs extend beyond profit maximization, including:
+    * community wellbeing
+    * job creation
+    * conservation of special places
+    * species conservation
+    * promotion of diverse economic activities.
+
+* CFEs are responsible for protecting, restoring, harvesting, logging, and industrializing forest lands.
+
+* Tend to have lower timber harvest levels due to broader community goals.
+
+#### Topical Forests
+
+* The _Plan Piloto Forestal de Quintana Roo (PPF)_ was created as part of the transition to new forest management methods.
+
+* PPF incorporates the management of more species, restricts harvest levels to estimated current growth, and designates permanent conservation areas.
+
+* PPF harvest levels are based on estimates of growth and size distribution of valuable species.
+
+* Forest sustainability under PPF relies on accurate estimates, demand for diverse species, and high investments for species regeneration.
+
+* PPF is recognized as a major, successful tropical forest management operation in Latin America.
+
+#### Tropical Dry Forests
+
+* Tropical dry forests have been severely impacted by land use changes due to ease of conversion and higher soil fertility.
+
+* Sustainable harvest level estimation procedures are basic due to limited knowledge of species dynamics.
+
+* The goal is to maintain specific forest structures and species diversity between cutting cycles.
+
+* Transition matrices of species numbers and tree-diameter distribution are used to determine species abundance and estimate harvest levels.
+
+* Harvest decisions depend on estimates of tree additions to each diameter class and the ratio between this ingrowth and the next higher diameter class.

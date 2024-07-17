@@ -1,14 +1,13 @@
 ---
-title: "VM0047"
+title: "Misc"
 
-date: 08-09-2023
+date: today
 
 author:
-    - name: Verra
-      url: https://verra.org/methodologies/vm0047-afforestation-reforestation-and-revegetation-v1-0/
+    - name: Tristan Goodbody
 
 description: |
-    VM0047 Afforestation, Reforestation, and Revegetation
+    Carbon Information
 
     
 keywords:
@@ -16,3 +15,6 @@ keywords:
 ---
 
 # Overview
+
+* Mexico is predicted to launch a multi-sector cap & trade domestic compliance market in
+the next 1-2 years, and there is potential that CAR’s MFP credits will be eligible as an offset.

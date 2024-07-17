@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+
+bibliography: refs.bib
   
 website:
   title: "VCM Methodologies"
